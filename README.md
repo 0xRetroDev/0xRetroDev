@@ -33,11 +33,6 @@ An open-world driving game with a world that is generated as you drive.
 It went from first commit to a playtest build in under three weeks.<br>
 `three.js` `JavaScript` `Electron` `Steamworks`
 
-**Untitled Platformer**<br>
-A real-time multiplayer game platform for mobile and browser.
-It peaked at 40,000 weekly players.
-It was [featured on the SKALE blog](https://www.skale.space/blog/untitled-platformer-launches-on-skale-a-new-era-in-the-time-honored-tradition-of-platform-games).
-
 ## Open source
 
 | Project | What it does |
