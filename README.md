@@ -37,7 +37,6 @@ It went from first commit to a playtest build in under three weeks.<br>
 
 | Project | What it does |
 | --- | --- |
-| [MeshifAI](https://github.com/0xRetroDev/meshifai) | Generates 3D models from text in JavaScript. There is also a [Unity SDK](https://github.com/0xRetroDev/meshifai-unity). |
 | [phaser-hidpi](https://github.com/sparkade-labs/phaser-hidpi) | Fixes blurry text in Phaser 4 on high-resolution screens. |
 | [Unity Guard](https://github.com/0xRetroDev/unity-guard) | Scans Unity builds for leaked keys and unsafe code. |
 | [Passly SDK](https://github.com/0xRetroDev/passly-sdk) | Links verified X, Discord and GitHub accounts to a wallet. |
