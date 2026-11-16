@@ -39,8 +39,6 @@ It went from first commit to a playtest build in under three weeks.<br>
 | --- | --- |
 | [phaser-hidpi](https://github.com/sparkade-labs/phaser-hidpi) | Fixes blurry text in Phaser 4 on high-resolution screens. |
 | [Unity Guard](https://github.com/0xRetroDev/unity-guard) | Scans Unity builds for leaked keys and unsafe code. |
-| [Passly SDK](https://github.com/0xRetroDev/passly-sdk) | Links verified X, Discord and GitHub accounts to a wallet. |
-| [tmpdb](https://www.npmjs.com/package/@tmpdb/cli) | Creates throwaway databases for tests. |
 
 ## Stack
 
